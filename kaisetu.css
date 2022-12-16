@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+body,h1,h2,h3,p{
+	margin: 0;
+	padding: 0;
+}
+.zenbu{
+	background-image: url("gazou/haikei.png");
+}
+
+img{
+	width: 100%;
+	height: auto;
+	vertical-align: bottom;
+	border: none;
+}
+header h1{
+	width: 100%;
+}
+.modoru{
+	width: 60px;
+	margin: 0 auto;
+}
+p{
+	font-size: 12px;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+h2{
+	margin-left: 3%;
+	margin-right: 3%;
+}
+h3{
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.usiro img{
+	margin-left: 3%;
+	margin-right: 3%;
+}
